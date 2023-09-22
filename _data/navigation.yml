@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: <i class="fa fa-address-card"></i> About
+    url: /about/
+  - title: <i class="fa fa-pen"></i> Posts
+    url: /posts/ # /_pages/index.html
+  - title: <i class="fa fa-sitemap"></i> Sitemap
+    url: /sitemap/
