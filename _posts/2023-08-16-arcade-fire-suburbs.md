@@ -8,9 +8,10 @@ tags:
     - indie-rock
     - usa
     - arcade fire
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 toc_label: 'In questo post'
+draft: true
 
 header:
     image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/arcade_fire_suburbs_cover.jpg      

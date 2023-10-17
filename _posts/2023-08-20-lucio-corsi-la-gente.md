@@ -9,8 +9,8 @@ tags:
     - indie
     - italia
     - lucio corsi
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 toc_label: 'In questo post'
 
 header:

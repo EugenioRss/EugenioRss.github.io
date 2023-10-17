@@ -8,8 +8,8 @@ tags:
     - new age
     - uk
     - demian dorelli
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 toc_label: 'In questo post'
 
 header:
