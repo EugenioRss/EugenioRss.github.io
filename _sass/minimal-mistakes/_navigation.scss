@@ -177,12 +177,12 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: $background-color;
+  background: transparent;
 
   a {
     display: block;
     margin: 0 1rem;
-    color: $masthead-link-color;
+    color: #fff;
     text-decoration: none;
     -webkit-transition: none;
     transition: none;
@@ -195,7 +195,7 @@
       margin-left: 0;
       margin-right: 0.5rem;
     }
-
+    
     &.site-title {
       margin-left: 0;
     }

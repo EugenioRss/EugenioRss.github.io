@@ -26,7 +26,7 @@ domain                   :  "eugeniorss.github.io"
 baseurl                  :  ''  #"_site"
 repository               : EugenioRss/EugenioRss.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/orbite_icon.png"
+logo                     : "/assets/images/vinyl_nook_icon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
