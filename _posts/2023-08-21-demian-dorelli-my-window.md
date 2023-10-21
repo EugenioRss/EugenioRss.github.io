@@ -11,7 +11,7 @@ tags:
 toc: false
 toc_sticky: false
 toc_label: 'In questo post'
-
+published: true
 header:
     image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1687940731/theWineCellarMusic/Digital-My-Window-ALBUM-760x760_mvs3ee.jpg
     overlay_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1687940731/theWineCellarMusic/Digital-My-Window-ALBUM-760x760_mvs3ee.jpg
