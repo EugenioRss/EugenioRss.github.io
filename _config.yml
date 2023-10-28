@@ -21,7 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eugenio Rossini"
 description              : "Un blog di musica."
-url                      : "https://eugeniorss.github.io"
+#url                      : "https://eugeniorss.github.io"
+url                      : "https://vinylnook.com"
 domain                   :  "eugeniorss.github.io"
 baseurl                  :  ''  #"_site"
 repository               : EugenioRss/EugenioRss.github.io
