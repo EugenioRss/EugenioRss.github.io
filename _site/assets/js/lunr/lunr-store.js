@@ -7,7 +7,7 @@ var store = [{
       },{
         "title": "Demian Dorelli - My Window",
         "excerpt":"My Window (2023) è una preziosa collezione di suggestioni, melodie e armonie suonate con delicatezza ed eleganza che colpiscono e fanno emozionare. Basta aprire la finestra per far entrare la musica del giovane compositore britannico Demian Dorelli. L’artista Non è ancora molto conosciuto e su internet si trovano poche informazioni,...","categories": ["Recensione"],
-        "tags": ["recensione","new age","uk","demian dorelli"],
+        "tags": ["New Age","Jazz","Demian Dorelli"],
         "url": "/recensione/demian-dorelli-my-window/",
         "teaser": "https://res.cloudinary.com/eugenio-rossini/image/upload/v1687940731/theWineCellarMusic/Digital-My-Window-ALBUM-760x760_mvs3ee.jpg"
       }]

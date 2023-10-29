@@ -7,6 +7,8 @@ tags:
     - Pop
     - Folk
     - Weyes Blood
+
+published: true
 header:
     image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1697894429/theWineCellarMusic/weyes-blood-titanic-rising-Cover-Art_gugsc2.jpg
     overlay_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1697887093/theWineCellarMusic/weyesblood_wide-d147ff0a9cea17af3428951a32db4a8aa0a5aafb_vnzima.jpg
