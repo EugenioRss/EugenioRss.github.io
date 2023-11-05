@@ -10,4 +10,10 @@ var store = [{
         "tags": ["New Age","Jazz","Demian Dorelli"],
         "url": "/recensione/demian-dorelli-my-window/",
         "teaser": "https://res.cloudinary.com/eugenio-rossini/image/upload/v1687940731/theWineCellarMusic/Digital-My-Window-ALBUM-760x760_mvs3ee.jpg"
+      },{
+        "title": "The Beatles - Now And There",
+        "excerpt":"I Beatles tornano in secna grazie ad un vecchio demo del 1978 ed al supporto fornito dall’Intelligenza Artificiale. Il 2 Novembre 2023 è uscito Now and Then, l’ultimo inedito dei Fab Four e già fa discutere molto, tra chi lo ha amato subito alla follia e chi invece ritiene che...","categories": ["Recensione"],
+        "tags": ["Pop","AI","The Beatles"],
+        "url": "/recensione/the-beatles-now-and-there/",
+        "teaser": "https://res.cloudinary.com/eugenio-rossini/image/upload/v1699029760/theWineCellarMusic/12972_medium_tt7rga.jpg"
       }]

@@ -8,7 +8,7 @@ header:
 excerpt: |+
     "I'm very good at the past. It's the present I can't understand."
 
-
+      \
     *Nick Hornby, High Fidelity*
 
 
