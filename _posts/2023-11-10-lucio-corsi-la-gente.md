@@ -4,19 +4,16 @@ author: "Eugenio Rossini"
 categories: 
     - Recensione
 tags: 
-    - recensione
-    - cantautorato
-    - indie
-    - italia
-    - lucio corsi
-toc: false
-toc_sticky: false
-toc_label: 'In questo post'
+    - Pop
+    - Cantautorato
+    - Italia
+    - Lucio Corsi
 
-published: false
+published: true
+
 header:
     image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1685018093/theWineCellarMusic/covercorsi_1682679797_u5okhd.jpg    
-    overlay_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1685018093/theWineCellarMusic/covercorsi_1682679797_u5okhd.jpg
+    overlay_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1700160348/theWineCellarMusic/FOTO-Lucio-Corsi-e1573240859175-1200x765_jbx3z8.jpg
     overlay_filter: 0.18
     show_overlay_excerpt: false
     teaser: https://res.cloudinary.com/eugenio-rossini/image/upload/v1685018093/theWineCellarMusic/covercorsi_1682679797_u5okhd.jpg
@@ -27,7 +24,7 @@ Lucio Corsi viene dalla mia stessa terra, la Maremma e ricordo ancora quando suo
 Il tempo è passato più o meno rapidamente e di strada Lucio ne ha fatta. **La Gente che Sogna** (2023) è il terzo album registrato in studio, dopo **Bestiario Musicale** (2017) e **Cosa faremo da grandi?** (2020), che già avevano riscosso successo portando Lucio alle luci della ribalta del panorama del nuovo "cantautorato glam" italiano.
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ympb4Q-HhcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ympb4Q-HhcM?si=a_nFaJpdlgWYOZI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## L'artista
@@ -35,8 +32,12 @@ In questo caso il cantante lo conosco di persona, tuttavia vale la pena astrarsi
 
 Non possiamo parlare di Lucio Corsi e non citare i grandi maestri da cui ha tratto ispirazione sia per lo stile glam che sfoggia in videoclip e concerti sia per la musica che scrive. Affondando le radici nella musica degli anni '70 (straniera e nostrana), Lucio ha costruito una poetica che lo contraddistingue fatta di cliché, analogie e tematiche che sono la sua firma. Se si ascolta la discografia fino a **La Gente che Sogna** (includendo anche i suoi primissimi EP e i singoli) è abbastanza chiaro come il timbro, lo stile e i testi si sono fatti sempre più raffinati e maturi, pur mantenendo dei punti saldi come un filo rosso che attraversa ogni canzone.
 
-L'ispirazione di Lucio c'è da cercarla più nel passato della musica rock piuttosto che tra i suoi contemporanei. I suoi padri putativi sono senza ombra di dubbio le colonne portanti del *glam rock* degli anni '70, due tra tutti **David Bowie** e **Lou Reed** e perché non citare il nostro **Renato Zero**. Da Bowie e Reed pesca a piene mani e così anche da **Ivan Graziani**, **Lucio Battisti** e **Lucio Dalla**. L'accoppiata chitarra voce, configurazione perfetta per ogni cantautore da **Bob Dylan** in avanti accompagna spesso temi apparentemente nosense che nascondono altre chiavi di lettura (Beatles docet). Così abbiamo individuato quasi tutta la storia della musica moderna (e qualcuno potrebbe gridare all'ovvietà) ma sentirete come risuonano gli echi di questi grandi del passato in ogni disco di Lucio. Luciano Berio parlava di ricordo al futuro nelle sue composizioni, intendendo che le ispirazioni per le sue opere (capolavori unici di avanguardia) arrivavano dallo studio di quei compositori che più di tutti avevano saputo intuire il futuro attraverso creatività ed visione.
+L'ispirazione di Lucio c'è da cercarla più nel passato della musica rock piuttosto che tra i suoi contemporanei. I suoi padri putativi sono senza ombra di dubbio le colonne portanti del *glam rock* degli anni '70, due tra tutti **David Bowie** e **Lou Reed** e perché non citare il nostro **Renato Zero**. Da Bowie e Reed pesca a piene mani e così anche da **Ivan Graziani**, **Lucio Battisti** e **Lucio Dalla**. L'accoppiata chitarra voce, configurazione perfetta per ogni cantautore da **Bob Dylan** in avanti accompagna spesso temi apparentemente nosense che nascondono altre chiavi di lettura. Così abbiamo individuato quasi tutta la storia della musica moderna (e qualcuno potrebbe gridare all'ovvietà) ma sentirete come risuonano gli echi di questi grandi del passato in ogni disco di Lucio. Luciano Berio parlava di ricordo al futuro nelle sue composizioni, intendendo che le ispirazioni per le sue opere (capolavori unici di avanguardia) arrivavano dallo studio di quei compositori che più di tutti avevano saputo intuire il futuro attraverso creatività ed visione.
 C'è poi da dire che un sodalizio particolarmente fortunato è quello che Lucio ha stretto con **Francesco Bianconi**, frontman e penna dei *Baustelle*, gruppo simbolo dell'*Indie-Rock* italiano (toscani anche loro). I Baustelle e Bianconi sono diventati per Lucio un trampolino di lancio verso palchi sempre più importanti.
+
+{% include image.html path='https://res.cloudinary.com/eugenio-rossini/image/upload/v1700160742/theWineCellarMusic/lucio-corsi-bianconi-foto_d5wda9.jpg' %}
+
+\
 Avendo chiarito (forse ?) dove si colloca Lucio Corsi nel panorama musicale italiano possiamo iniziare l'ascolto!
 
 ## Il Disco

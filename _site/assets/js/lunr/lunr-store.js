@@ -13,7 +13,13 @@ var store = [{
       },{
         "title": "The Beatles - Now And There",
         "excerpt":"I Beatles tornano in secna grazie ad un vecchio demo del 1978 ed al supporto fornito dall’Intelligenza Artificiale. Il 2 Novembre 2023 è uscito Now and Then, l’ultimo inedito dei Fab Four e già fa discutere molto, tra chi lo ha amato subito alla follia e chi invece ritiene che...","categories": ["Recensione"],
-        "tags": ["Pop","AI","The Beatles"],
+        "tags": ["Pop","Rock","UK","The Beatles"],
         "url": "/recensione/the-beatles-now-and-there/",
         "teaser": "https://res.cloudinary.com/eugenio-rossini/image/upload/v1699029760/theWineCellarMusic/12972_medium_tt7rga.jpg"
+      },{
+        "title": "Lucio Corsi - La Gente che Sogna",
+        "excerpt":"Lucio Corsi viene dalla mia stessa terra, la Maremma e ricordo ancora quando suonava per noi al Liceo. Il pubblico era poco ma già ai tempi si sentiva nella sua musica qualcosa di familiare e di nuovo allo stesso tempo, si percepiva già il futuro. Il tempo è passato più...","categories": ["Recensione"],
+        "tags": ["Pop","Cantautorato","Italia","Lucio Corsi"],
+        "url": "/recensione/lucio-corsi-la-gente/",
+        "teaser": "https://res.cloudinary.com/eugenio-rossini/image/upload/v1685018093/theWineCellarMusic/covercorsi_1682679797_u5okhd.jpg"
       }]

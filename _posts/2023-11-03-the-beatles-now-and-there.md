@@ -5,7 +5,8 @@ categories:
     - Recensione    
 tags: 
     - Pop
-    - AI
+    - Rock
+    - UK
     - The Beatles
 
 published: true
