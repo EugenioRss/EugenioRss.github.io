@@ -47,23 +47,27 @@ Come ogni disco di Lucio uscito fino a questo momento (compresi EP e singoli var
 
 **Astronave Giradisco**: bella questa cosa che una canzone contiene all'interno l'elemento principale della canzone precedente:
 
->*Anche il satellite d'amore di Lou Reed*
 >
->*Come Maria che appare in tutte le frequenze*
+> Anche il satellite d'amore di Lou Reed
 >
->*Radio Mayday passava l'ultima hit*
+> Come Maria che appare in tutte le frequenze
 >
->*Space vibrations*
+> Radio Mayday passava l'ultima hit 
+>
+> Space vibrations 
+>
 
 Questo brano è più in linea con i brani di Lucio che conosciamo bene: alieni, navicelle spaziali, tipi verdi ma con uno spiccato gusto musicale e Lou Reed. Però il significato è più profondo ed ha radici ecologiche.
 
->*Nel mondo senza difetti*
 >
->*Dove gli umani erano gli unici assenti*
+> Nel mondo senza difetti
 >
->*Dove le statue camminavano*
+> Dove gli umani erano gli unici assenti
 >
->*Per stare al passo coi tempi*
+> Dove le statue camminavano
+>
+> Per stare al passo coi tempi 
+>
 
 Non a caso il mondo senza difetti è quello privo di Homo Sapiens Sapiens.
 
@@ -81,39 +85,44 @@ Vale la pena sottolineare che i video sono stati scritti e diretti da Tommaso Ot
 
 **La Gente che Sogna**: un vero inno al sogno, sia come mezzo di evasione dalla tiepida realtà sia come strumento di immaginazione e fantasia.  Mi sono divertito a trovare una frase che può essere a tutti gli effetti intesa come firma di Lucio Corsi: "Un albergo non è altro che il pronto soccorso del sonno".
 
->*Ma non riesci a chiuderе i conti col mondo e la realtà*
 >
->*Il cielo nella finestra è buio e tetro*
+> Ma non riesci a chiuderе i conti col mondo e la realtà
 >
->*Ma è necessario un incubo per svegliarsi con sollievo*
+> Il cielo nella finestra è buio e tetro
+>
+> Ma è necessario un incubo per svegliarsi con sollievo
+>
 
 **Orme**: a mio avviso il brano più bello. Nella intro realizzata con gli archi io ci sento un richiamo di *Carry That Weight dei Beatles* (**Abbey Road**, 1969). Anche se non è voluto e anche se è proprio accennato mi piace pensare che i due brani siano in qualche modo legati dallo stesso tema di fondo: ognuno di noi si porta dietro il peso di una vita, sia questa breve, lunga, ricca o povera. La vita di è spesso segnata da orme, graffi, ferite ma anche premi. 
 
->*Certe orme sono ferite sulla riva*
 >
->*Che non spariscono con le onde*
+> Certe orme sono ferite sulla riva
 >
->*Ma restano stampate sulla pelle a vita*
+> Che non spariscono con le onde
+>
+> Ma restano stampate sulla pelle a vita
+>
 
 Con semplicità viene espresso un concetto poetico e profondo almeno quanto la vita.
 
 **La Bocca della Verità**: un bell'omaggio al nostro Renato Zero (e stavolta credo sia voluto!). Interessante che abbia inserito frasi in giapponese che fanno da contro canto alla voce principale. Qua sotto la traduzione:
 
->*Se la realtà è una bugia*
 >
->*Se Monnalisa non avesse sentimenti (ooh)*
+> Se la realtà è una bugia
 >
->*perché siamo*
+> Se Monnalisa non avesse sentimenti (ooh)
 >
->*Non so nemmeno cosa stai dicendo*
+> perché siamo
 >
->*Non sei stupido?*
+> Non so nemmeno cosa stai dicendo
 >
->*[...]*
+> Non sei stupido? 
 >
->*Basta! Interrompi già la registrazione*
+> [...]
 >
->*interrompere la registrazione*
+> Basta! Interrompi già la registrazione 
+>
+> interrompere la registrazione
 
 **Glam Party**: un inno omaggio all'anticonformismo, tema caro a questo genere di musica. Ognuno deve essere libero di esprimere se stesso e la propria natura, senza che gli altri si sentano in dovere di giudicare, sempre attuale.
 
@@ -123,19 +132,21 @@ Con semplicità viene espresso un concetto poetico e profondo almeno quanto la v
 
 **Un Altro Mondo**: a metà tra un sogno ed un'esperienza post morte. L'autore si interroga se ci sia un altro mondo (dopo la morte? o quando si dorme?). Ad incupire ancora di più la scena è una frase inserita nel mezzo del brano.
 
->*Che esista un altro mondo io non ne dubito*
 >
->*Basta credere agli occhi*
+> Che esista un altro mondo io non ne dubito
 >
->*Credere agli occhi anche quando si chiudono*
+> Basta credere agli occhi
 >
->*Nel bicchiere di vetro c'è la sofferenza*
+> Credere agli occhi anche quando si chiudono
 >
->*Per essere quasi nato fantasma*
+> Nel bicchiere di vetro c'è la sofferenza
 >
->*E vede le nuvole più vuote che piene, eh-eh-eh, eh-eh*
+> Per essere quasi nato fantasma
 >
->*Piangendo mischia le sue lacrime all'acqua*
+> E vede le nuvole più vuote che piene, eh-eh-eh, eh-eh
+>
+> Piangendo mischia le sue lacrime all'acqua
+>
 
 ## Conclusione
 

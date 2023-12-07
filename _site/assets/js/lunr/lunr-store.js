@@ -22,4 +22,10 @@ var store = [{
         "tags": ["Pop","Cantautorato","Italia","Lucio Corsi"],
         "url": "/recensione/lucio-corsi-la-gente/",
         "teaser": "https://res.cloudinary.com/eugenio-rossini/image/upload/v1685018093/theWineCellarMusic/covercorsi_1682679797_u5okhd.jpg"
+      },{
+        "title": "Giorgio Gaber - Il Signor G",
+        "excerpt":"Qualche giorno fa sono andato al cinema a vedere “Io, noi e Gaber” film-documentario diretto da Riccardo Milani e con mia sorpresa ho trovato la sala pienissima. Il film è stato proiettato in tutte le sale d’Italia nei giorni 6, 7 e 8 novembre 2023 ed è unn ritratto interessante...","categories": ["Recensione"],
+        "tags": ["Cantautorato","Teatro","Italia","Giorgio Gaber"],
+        "url": "/recensione/giorgio-gaber-signor-g/",
+        "teaser": "https://res.cloudinary.com/eugenio-rossini/image/upload/v1701202696/theWineCellarMusic/giorgiogaber_ilsignorg_1328370206_etqug6.jpg"
       }]
