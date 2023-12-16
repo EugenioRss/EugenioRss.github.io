@@ -4,18 +4,16 @@ author: "Eugenio Rossini"
 categories: 
     - Recensione
 tags: 
-    - recensione
-    - indie-rock
-    - usa
-    - arcade fire
-toc: false
-toc_sticky: false
-toc_label: 'In questo post'
-published: false
+    - Rock
+    - Indie
+    - USA
+    - Arcade Fire
+
+published: true
 
 header:
     image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/arcade_fire_suburbs_cover.jpg      
-    overlay_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/arcade_fire_suburbs_cover.jpg
+    overlay_image: https://res.cloudinary.com/eugenio-rossini/image/upload/t_Banner 16:9/v1702733540/theWineCellarMusic/af-2dba14930826f47e302e335f2edbd58310c68157-s1100-c50_urlrio.jpg
     overlay_filter: 0.18
     show_overlay_excerpt: false
     teaser: https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/arcade_fire_suburbs_cover.jpg
@@ -29,7 +27,9 @@ Estate 2010, esce The Suburbs, terzo album in studio degli Arcade Fire, band ind
 ## Il disco
 In questo concept album Win Butler, Regine Chassagne et Co. affrontano il tema della crescita e del cambiamento, mescolando folk, rock, pop corale ed epica orchestrale con la finezza che li caratterizza e che ne ha sancito il successo, loro malgrado.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Euj9f3gdyM?si=E_1irKFQEG0965tH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Euj9f3gdyM?si=V6WxLW4D6EYkmrod" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 
 \
 L’album si apre con la title-track dove vengono snocciolati i temi del disco; il protagonista condivide le sue esperienze d’infanzia nei Suburbs, quartieri residenziali che sorgono ai confini delle grandi città (chiamati anche Sprawl). L’auto (in copertina) è il vettore che permette all’autore e ai suoi amici la fuga verso la città. La paura (*fear*) di rimanere intrappolato nella piccola realtà periferica spinge a sognare di lasciare il quartiere e trasferirsi in città. Questo timore viene esternalizzato in una guerra-gioco tra ragazzi dello stesso quartiere (*Suburban War*, *City with No Children*). Ma la guerra rappresenta anche un dissidio interno per i giovani dei Suburbs: rimanere nella piccola realtà familiare o fare il salto verso l’ignoto inseguendo il proprio sogno. Il ritornello, nella sua semplicità, è la chiave di lettura per tutto il disco: la prima strofa *“Sometimes I can’t believe it”* viene eseguita in falsetto, per poi scendere con la seconda strofa *“I’m moving past the feeling”* su note più basse, richiamando il passaggio fondamentale che per ogni bambino segna la fine dell’età infantile e l’inizio della pubertà. Compare inoltre il concetto di *“feeling”*, che in questo caso descrive la sensazione di nostalgia per un periodo o un luogo di un passato irripetibile.
@@ -55,7 +55,9 @@ E chi, invece, si sente superato e fuori luogo:
 
 L’equilibrio viene raggiunto nel concitato bridge finale; adesso l’autore può superare le sue insicurezze e inseguire i propri sogni; solo così può dirsi un Modern Man. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EJcwMhNUo6Y?si=ko50KsO798bVx8LB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJcwMhNUo6Y?si=TpFWbYRyNWne1VXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 
 \
 Le tempeste sonore di *Rococo*, i violini sognanti di *Half Light I* e l’uso dell’elettronica in *Half Light II* e *Deep Blue* sono tanto evocativi quanto rappresentano una fine capacità di adattare i più vari strumenti al senso del brano. 

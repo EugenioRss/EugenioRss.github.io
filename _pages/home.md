@@ -6,10 +6,9 @@ header:
   overlay_filter: "0.3"
   overlay_image: https://res.cloudinary.com/eugenio-rossini/image/upload/t_Rounded 4:3/v1697454282/theWineCellarMusic/High-quality-image-of-a-cozy-room-with-warm-light-that-contains-a-large-vinyl-records-collection-and-Hi-Fi-stereo--The-image-should-contains-also-aspect-of-young--rebel--and-catchy-_rgespj.png
 excerpt: |+
-    "I'm very good at the past. It's the present I can't understand."
-
-      \
-    *Nick Hornby, High Fidelity*
+    *I'm a deejay*
+    \
+    *I am what I play*
 
 
 ---

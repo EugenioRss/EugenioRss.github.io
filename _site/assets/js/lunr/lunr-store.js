@@ -28,4 +28,10 @@ var store = [{
         "tags": ["Cantautorato","Teatro","Italia","Giorgio Gaber"],
         "url": "/recensione/giorgio-gaber-signor-g/",
         "teaser": "https://res.cloudinary.com/eugenio-rossini/image/upload/v1701202696/theWineCellarMusic/giorgiogaber_ilsignorg_1328370206_etqug6.jpg"
+      },{
+        "title": "Arcade Fire - Suburbs",
+        "excerpt":"Estate 2010, esce The Suburbs, terzo album in studio degli Arcade Fire, band indie-rock di Montréal ormai affermatasi dopo Funeral (2004) e Neon Bible (2007). Il disco In questo concept album Win Butler, Regine Chassagne et Co. affrontano il tema della crescita e del cambiamento, mescolando folk, rock, pop corale...","categories": ["Recensione"],
+        "tags": ["Rock","Indie","USA","Arcade Fire"],
+        "url": "/recensione/arcade-fire-suburbs/",
+        "teaser": "https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/arcade_fire_suburbs_cover.jpg"
       }]

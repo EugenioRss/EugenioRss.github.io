@@ -17,18 +17,6 @@ toc_icon: "cogs"
 
 ## Information
 
-```python
-me = Person(
-    name="Eugenio",
-    surname="Rossini",
-    birthdate=datetime.date(1994, 7, 21),
-    occupation="Machine Learning Engineer",
-    city="Rome",
-    email=""
-)
-```
-
-{: .container}
 <div>
 Hello!
 
